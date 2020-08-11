@@ -1,6 +1,6 @@
 # SACATE-Sac-
 
-An easy-to-navigate website which can be used to donate food, clothing or other necessities to the distribution centres as well as a direction to the well-funded PMCARES charitable trust.  The website is integrated with a chatbot that helps improve user experience. Refer to the Demo videos provided toward the end of the file for a clear understanding of the functionalities of the website.
+An easy-to-navigate website which can be used to donate food, clothing or other necessities to the distribution centers as well as a direction to the well-funded PMCARES charitable trust.  The website is integrated with a chatbot that helps improve user experience. Refer to the Demo videos provided toward the end of the file for a clear understanding of the functionalities of the website.
 
 
 ## Steps
